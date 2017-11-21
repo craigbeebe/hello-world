@@ -7,16 +7,21 @@
   <meta name="keywords" content="PhD, higher education, student affairs">
   <meta name="viewport" content="device-width, initial-scale=1.0">
 </head>
-
+<!-- Page Content -->
 <body>
   <div class="top">
     <h1>Call Me the Webmaster!</h1>
     </div>
     <p>Here is where I type some content.</p>
   <br>
-  <br>
+  <!-- Gonna make a little table here -->
   <em>Table 1. Bizarre Sample Data</em>
-  <table>
+  <table border="1">
+    <tr>
+      <th colspan="3">
+        <h3>Table Title</h3>
+      </th>
+    </tr>
     <tr>
       <th>Some Category</th>
       <th>Datum1</th>
